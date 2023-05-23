@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.app{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.container{
+  border-radius: 5px;
+  background-color:rgb(165, 33, 81);
+  padding:5px;
+  width: 600px;
+}
+
+input{
+  width:550px;
+  font-size: medium;
+  padding:10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.btn{
+  display:block;
+  width:573px;
+  font-size:medium;
+  margin: 10px;
+  padding:10px;
+  color:black;
+  background-color:pink;
+  cursor:pointer;
+}
+.btn:hover{
+  background-color:rgb(245, 101, 125);
+}
+
+.heading{
+  text-align:center;
+}
+h4{
+  text-align:center;
+  align-items: center;
+  color:black;
+}
+h5{
+  font-family:'Courier New', Courier, monospace;
+}
+
+label{
+  text-align: center;
+  align-items: center;
+}
+p{
+  text-align: center;
+  align-items: center;
+  font-size:bolder;
+}
+
+.image img{
+  width: 600px;
+}
